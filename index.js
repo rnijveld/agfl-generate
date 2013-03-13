@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 var util = require('util');
 var _ = require('underscore');
 var parser = require('./src/grammar/agfl.js');

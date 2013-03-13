@@ -1,6 +1,6 @@
 var util = require('util');
 var _ = require('underscore');
-var parser = require('./src/grammar/agfl.js');
+var parser = require('./grammar/agfl.js');
 
 /**
  * Generates a sample for the given rule in the given grammar

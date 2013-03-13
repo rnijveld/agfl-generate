@@ -1,0 +1,23 @@
+{
+  "name": "agfl-generate",
+  "version": "0.2.0",
+  "description": "Generator using agfl grammar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:rnijveld/agfl-generate.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Ruben Nijveld <ruben@gewooniets.nl>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "underscore": "",
+    "pegjs": ""
+  }
+}
